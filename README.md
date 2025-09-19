@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Daniel Vilela
+# 👋 Olá, me chamo Daniel Vilela
 
 💻 Estudante de Desenvolvimento Web | HTML • CSS • JavaScript  
 🚀 Em constante aprendizado e construindo projetos para evoluir minhas habilidades.  
